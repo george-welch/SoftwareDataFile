@@ -10,7 +10,10 @@
       "Agentless Management Service for Microsoft Windows x64": "2.51.3.0"
     }
   },
-  "url": {},
+  "url": {
+    "SPPLink": "http://h17007.www1.hpe.com/us/en/enterprise/servers/products/service_pack/spp/index.aspx",
+    "SysInfoLink": "https://www.powershellgallery.com/packages/HPESysInfoCmdlets"
+  },
   "driver": {
     "EG000300JWBHR": {
       "EG000300JWBHR_x64": "HPD5(D)"
