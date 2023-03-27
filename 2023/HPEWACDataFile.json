@@ -2,11 +2,11 @@
   "AMSLink": "https://techlibrary.hpe.com/us/en/enterprise/servers/products/service_pack/spp/index.aspx",
   "SysRomLink": "https://techlibrary.hpe.com/us/en/enterprise/servers/products/service_pack/spp/index.aspx",
   "SysRomVersion": null,
-  "AMSVersion": "2.51.3.0",
+  "AMSVersion": "2.41.0.0",
   "SysInfoLink": "https://www.powershellgallery.com/packages/HPESysInfoCmdlets",
   "iLOFWLink": "https://techlibrary.hpe.com/us/en/enterprise/servers/products/service_pack/spp/index.aspx",
-  "iLOFWVersion": "2.72",
-  "SysInfoVersion": "1.5.0.4",
+  "iLOFWVersion": "2.42",
+  "SysInfoVersion": "1.5.0.2",
   "NVDIMMLink": "https://www.powershellgallery.com/packages/HPENVDIMMCmdlets/",
   "NVDIMMVersion": "2.3.0.0",
   "OSList": [
@@ -75,11 +75,11 @@
         },
         {
           "Name": "System BIOS - U37",
-          "Version": "v2.76 (01/18/2023)"
+          "Version": "v2.76 (02/09/2023)"
         },
         {
           "Name": "System BIOS - U38",
-          "Version": "v2.76 (01/18/2023)"
+          "Version": "v2.76 (02/09/2023)"
         },
         {
           "Name": "System BIOS - U40",
@@ -156,11 +156,11 @@
         },
         {
           "Name": "System BIOS - U37",
-          "Version": "v2.76 (01/18/2023)"
+          "Version": "v2.76 (02/09/2023)"
         },
         {
           "Name": "System BIOS - U38",
-          "Version": "v2.76 (01/18/2023)"
+          "Version": "v2.76 (02/09/2023)"
         },
         {
           "Name": "System BIOS - U39",
@@ -184,7 +184,7 @@
         },
         {
           "Name": "System BIOS - U45",
-          "Version": "v2.76 (01/18/2023)"
+          "Version": "v2.76 (02/09/2023)"
         },
         {
           "Name": "System BIOS - U46",
@@ -269,11 +269,11 @@
         },
         {
           "Name": "System BIOS - U37",
-          "Version": "v2.76 (01/18/2023)"
+          "Version": "v2.76 (02/09/2023)"
         },
         {
           "Name": "System BIOS - U38",
-          "Version": "v2.76 (01/18/2023)"
+          "Version": "v2.76 (02/09/2023)"
         },
         {
           "Name": "System BIOS - U39",
@@ -297,7 +297,7 @@
         },
         {
           "Name": "System BIOS - U45",
-          "Version": "v2.76 (01/18/2023)"
+          "Version": "v2.76 (02/09/2023)"
         },
         {
           "Name": "System BIOS - U46",
@@ -374,11 +374,11 @@
         },
         {
           "Name": "System BIOS - U37",
-          "Version": "v2.76 (01/18/2023)"
+          "Version": "v2.76 (02/09/2023)"
         },
         {
           "Name": "System BIOS - U38",
-          "Version": "v2.76 (01/18/2023)"
+          "Version": "v2.76 (02/09/2023)"
         },
         {
           "Name": "System BIOS - U39",
@@ -398,7 +398,7 @@
         },
         {
           "Name": "System BIOS - U45",
-          "Version": "v2.76 (01/18/2023)"
+          "Version": "v2.76 (02/09/2023)"
         },
         {
           "Name": "System BIOS - U46",
@@ -453,6 +453,14 @@
       "Version": "v2.68 (02/06/2023)"
     },
     {
+      "Name": "System BIOS - A47",
+      "Version": "v2.68 (02/06/2023)"
+    },
+    {
+      "Name": "System BIOS - A48",
+      "Version": "v2.68 (02/06/2023)"
+    },
+    {
       "Name": "System BIOS - U30",
       "Version": "v2.76 (02/09/2023)"
     },
@@ -474,11 +482,11 @@
     },
     {
       "Name": "System BIOS - U37",
-      "Version": "v2.76 (01/18/2023)"
+      "Version": "v2.76 (02/09/2023)"
     },
     {
       "Name": "System BIOS - U38",
-      "Version": "v2.76 (01/18/2023)"
+      "Version": "v2.76 (02/09/2023)"
     },
     {
       "Name": "System BIOS - U39",
@@ -502,7 +510,7 @@
     },
     {
       "Name": "System BIOS - U45",
-      "Version": "v2.76 (01/18/2023)"
+      "Version": "v2.76 (02/09/2023)"
     },
     {
       "Name": "System BIOS - U46",
